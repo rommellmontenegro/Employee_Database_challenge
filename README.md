@@ -3,12 +3,19 @@
 ## Overview of the analysis:
 The Pewlett-Hackard-Analysis challenge ensured we could demonstrate the utilize SQL to perform the following: 
   a) Create new tables with the INTO statement
+  
   b) Export a table as a CSV file
+  
   c) Filter queries with the WHERE clause
+  
   d) Use the INNER JOIN clause to join two tables on a primary key
+  
   e) Use the ON () clause
+  
   f) Use an alias instead of a full table name
+  
   g) Use the ORDER BY clause
+  
   h) Use the COUNT() function to retrieve the total number of rows that matches a specified criteria
 
 ## The purpose of the new analysis is well defined. (3 pt)
