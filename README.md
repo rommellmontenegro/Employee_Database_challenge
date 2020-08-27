@@ -1,8 +1,9 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis:
-The Pewlett-Hackard-Analysis challenge ensured we could demonstrate the utilize SQL to perform the following: 
-  a) Create new tables with the INTO statement
+The Pewlett-Hackard-Analysis challenge ensured we could demonstrate the utilize SQL to perform the following:
+
+      a) Create new tables with the INTO statement
   
   b) Export a table as a CSV file
   
